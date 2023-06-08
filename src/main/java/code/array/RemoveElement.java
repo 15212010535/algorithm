@@ -1,5 +1,8 @@
 package code.array;
 
+/**
+ * 移除数组
+ */
 public class RemoveElement {
 
     /**
