@@ -56,12 +56,12 @@ public class StrStr {
     private void getNext(int[] next, String s) {
         int j = 0;
         next[0] = 0;
-        for (int i = 1; i < s.length(); i++) {
-            while (j > 0 && s.charAt(j) != s.charAt(i))
-                j = next[j - 1];
-            if (s.charAt(j) == s.charAt(i))
+        for (int i = 1; i < s.length(); i++) { // 从1开始
+            while (j > 0 && s.charAt(j) != s.charAt(i)) // 前后缀不相同
+                j = next[j - 1]; // 向前回退
+            if (s.charAt(j) == s.charAt(i)) // 找到相同的前后缀
                 j++;
-            next[i] = j;
+            next[i] = j; // 将j（前缀的长度）赋值给next[i]
         }
     }
 }
