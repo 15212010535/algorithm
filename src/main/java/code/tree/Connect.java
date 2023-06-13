@@ -3,20 +3,20 @@ package code.tree;
 import java.util.LinkedList;
 import java.util.Queue;
 
-class Node {
+class ConnectNode {
     public int val;
-    public Node left;
-    public Node right;
-    public Node next;
+    public ConnectNode left;
+    public ConnectNode right;
+    public ConnectNode next;
 
-    public Node() {
+    public ConnectNode() {
     }
 
-    public Node(int _val) {
+    public ConnectNode(int _val) {
         val = _val;
     }
 
-    public Node(int _val, Node _left, Node _right, Node _next) {
+    public ConnectNode(int _val, ConnectNode _left, ConnectNode _right, ConnectNode _next) {
         val = _val;
         left = _left;
         right = _right;
@@ -28,16 +28,16 @@ class Node {
  * 填充每个节点的下一个右侧节点指针
  */
 public class Connect {
-    public Node connect(Node root) {
+    public ConnectNode connect(ConnectNode root) {
         if (root == null) {
             return root;
         }
-        Queue<Node> queue = new LinkedList<>();
+        Queue<ConnectNode> queue = new LinkedList<>();
         queue.add(root);
         while (!queue.isEmpty()) {
             int size = queue.size();
             while (size > 0) {
-                Node node = queue.poll();
+                ConnectNode node = queue.poll();
                 if(size - 1>0) {
                     node.next = queue.peek();
                 }
