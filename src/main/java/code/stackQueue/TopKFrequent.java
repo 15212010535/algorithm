@@ -8,8 +8,8 @@ import java.util.PriorityQueue;
 /**
  * 前k个高频元素
  */
-public class TopKFrequent1 {
-    public int[] topKFrequent1(int[] nums, int k) {
+public class TopKFrequent {
+    public int[] topKFrequent(int[] nums, int k) {
         Map<Integer, Integer> map = new HashMap<>();
         for (int num : nums) {
             map.put(num, map.getOrDefault(num, 0) + 1);
