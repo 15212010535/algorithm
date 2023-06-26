@@ -10,7 +10,7 @@ import java.util.List;
  */
 public class FindItinerary {
     private LinkedList<String> res;
-    private LinkedList<String> path = new LinkedList<>();
+    private final LinkedList<String> path = new LinkedList<>();
 
     public List<String> findItinerary(List<List<String>> tickets) {
         tickets.sort((a, b) -> a.get(1).compareTo(b.get(1)));
