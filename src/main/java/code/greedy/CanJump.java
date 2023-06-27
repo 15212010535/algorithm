@@ -10,6 +10,7 @@ public class CanJump {
         }
         int coverRange = 0;
         for (int i = 0; i <= coverRange; i++) {
+            // 范围内最大值
             coverRange = Math.max(coverRange, i + nums[i]);
             if (coverRange >= nums.length - 1)
                 return true;
