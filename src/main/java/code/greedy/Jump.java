@@ -1,7 +1,7 @@
 package code.greedy;
 
 /**
- *
+ * 跳跃游戏 II
  */
 public class Jump {
     public int jump(int[] nums) {
