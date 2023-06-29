@@ -2,6 +2,9 @@ package code.dp;
 
 import java.util.Arrays;
 
+/**
+ * 不同路径
+ */
 public class UniquePaths {
     public static int uniquePaths(int m, int n) {
         int[][] dp = new int[m][n];
