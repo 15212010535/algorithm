@@ -229,5 +229,6 @@ offer05.替换空格：ReplaceSpace
 NC15.求二叉树的层序遍历：LevelOrder  
 NC45.实现二叉树先序，中序和后序遍历：ThreeOrders  
 NC78.反转链表：ReverseList  
+NC88.寻找第K大：FindKth  
 NC119.最小的K个数：GetLeastNumbers  
 NC140.排序：MySort  
