@@ -226,5 +226,6 @@ offer05.替换空格：ReplaceSpace
 1049.最后一块石头的重量 II：LastStoneWeightII  
 
 ## 牛客  
+NC45.实现二叉树先序，中序和后序遍历：ThreeOrders  
 NC78.反转链表：ReverseList  
 NC140.排序：MySort  
