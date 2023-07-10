@@ -5,7 +5,7 @@ package nc;
  */
 public class ReverseList {
 
-    public ListNode ReverseList(ListNode head) {
+    public ListNode reverseList(ListNode head) {
         ListNode pre = null;
         ListNode cur = head;
         while (cur != null) {
