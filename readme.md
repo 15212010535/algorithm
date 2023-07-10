@@ -228,4 +228,5 @@ offer05.替换空格：ReplaceSpace
 ## 牛客  
 NC45.实现二叉树先序，中序和后序遍历：ThreeOrders  
 NC78.反转链表：ReverseList  
+NC119.最小的K个数：GetLeastNumbers  
 NC140.排序：MySort  
