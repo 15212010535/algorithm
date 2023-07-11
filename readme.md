@@ -228,6 +228,7 @@ offer05.替换空格：ReplaceSpace
 ## 牛客  
 NC1.大数加法：Solve  
 NC3.链表中环的入口结点：EntryNodeOfLoop  
+NC12.重建二叉树, 前序和中序：ReConstructBinaryTree  
 NC14.按之字形顺序打印二叉树：Print  
 NC15.求二叉树的层序遍历：LevelOrder  
 NC17. 最长回文子串：GetLongestPalindrome  
