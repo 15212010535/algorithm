@@ -233,7 +233,8 @@ NC8.二叉树中和为某一值的路径(二)：FindPath
 NC12.重建二叉树, 前序和中序：ReConstructBinaryTree  
 NC14.按之字形顺序打印二叉树：Print  
 NC15.求二叉树的层序遍历：LevelOrder  
-NC17. 最长回文子串：GetLongestPalindrome  
+NC17.最长回文子串：GetLongestPalindrome  
+NC24.删除有序链表中重复的元素-II：DeleteDuplicates  
 NC33.合并两个排序的链表：Merge  
 NC36.在两个长度相等的排序数组中找到上中位数：FindMedianInTwoSortedArray  
 NC37.合并区间：MergeInterval  
