@@ -243,6 +243,7 @@ NC61.两数之和：TwoSum
 NC78.反转链表：ReverseList  
 NC88.寻找第K大：FindKth  
 NC102.在二叉树中找到两个节点的最近公共祖先：LowestCommonAncestor  
+NC109.岛屿数量：NumIslands  
 NC119.最小的K个数：GetLeastNumbers  
 NC121.字符串排列：Permutation  
 NC127.最长公共子序列：LCS  
