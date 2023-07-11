@@ -1,6 +1,5 @@
 package code.string;
 
-import sun.applet.Main;
 
 /**
  * 反转字符串 II
