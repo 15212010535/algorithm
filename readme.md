@@ -230,6 +230,7 @@ NC1.大数加法：Solve
 NC3.链表中环的入口结点：EntryNodeOfLoop  
 NC14.按之字形顺序打印二叉树：Print  
 NC15.求二叉树的层序遍历：LevelOrder  
+NC17. 最长回文子串：GetLongestPalindrome  
 NC33.合并两个排序的链表：Merge  
 NC40.链表相加：AddInList  
 NC41.最长无重复子数组：MaxLength  
