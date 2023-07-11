@@ -240,6 +240,7 @@ NC50.链表中的节点每k个一组翻转：ReverseKGroup
 NC53.删除链表的倒数第n个节点：RemoveNthFromEnd  
 NC54.三数之和：ThreeSum  
 NC61.两数之和：TwoSum  
+NC70.单链表排序：SortInList  
 NC78.反转链表：ReverseList  
 NC88.寻找第K大：FindKth  
 NC102.在二叉树中找到两个节点的最近公共祖先：LowestCommonAncestor  
