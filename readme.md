@@ -235,6 +235,7 @@ NC14.按之字形顺序打印二叉树：Print
 NC15.求二叉树的层序遍历：LevelOrder  
 NC17. 最长回文子串：GetLongestPalindrome  
 NC33.合并两个排序的链表：Merge  
+NC36.在两个长度相等的排序数组中找到上中位数：FindMedianInTwoSortedArray  
 NC37.合并区间：MergeInterval  
 NC40.链表相加：AddInList  
 NC41.最长无重复子数组：MaxLength  
@@ -243,6 +244,7 @@ NC50.链表中的节点每k个一组翻转：ReverseKGroup
 NC53.删除链表的倒数第n个节点：RemoveNthFromEnd  
 NC54.三数之和：ThreeSum  
 NC59.矩阵的最小路径和：MinPathSum  
+NC60.判断一棵树是否是搜索二叉树和完全二叉树：JudgeIt  
 NC61.两数之和：TwoSum  
 NC70.单链表排序：SortInList  
 NC78.反转链表：ReverseList  
