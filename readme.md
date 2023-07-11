@@ -231,6 +231,7 @@ NC3.链表中环的入口结点：EntryNodeOfLoop
 NC14.按之字形顺序打印二叉树：Print  
 NC15.求二叉树的层序遍历：LevelOrder  
 NC33.合并两个排序的链表：Merge  
+NC40.链表相加：AddInList  
 NC41.最长无重复子数组：MaxLength  
 NC45.实现二叉树先序，中序和后序遍历：ThreeOrders  
 NC50.链表中的节点每k个一组翻转：ReverseKGroup  
