@@ -229,11 +229,13 @@ offer05.替换空格：ReplaceSpace
 NC1.大数加法：Solve  
 NC3.链表中环的入口结点：EntryNodeOfLoop  
 NC5.二叉树根节点到叶子节点的所有路径和：SumNumbers  
+NC8.二叉树中和为某一值的路径(二)：FindPath  
 NC12.重建二叉树, 前序和中序：ReConstructBinaryTree  
 NC14.按之字形顺序打印二叉树：Print  
 NC15.求二叉树的层序遍历：LevelOrder  
 NC17. 最长回文子串：GetLongestPalindrome  
 NC33.合并两个排序的链表：Merge  
+NC37.合并区间：MergeInterval  
 NC40.链表相加：AddInList  
 NC41.最长无重复子数组：MaxLength  
 NC45.实现二叉树先序，中序和后序遍历：ThreeOrders  
