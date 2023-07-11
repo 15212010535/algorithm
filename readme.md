@@ -237,6 +237,7 @@ NC41.最长无重复子数组：MaxLength
 NC45.实现二叉树先序，中序和后序遍历：ThreeOrders  
 NC50.链表中的节点每k个一组翻转：ReverseKGroup  
 NC53.删除链表的倒数第n个节点：RemoveNthFromEnd  
+NC54.三数之和：ThreeSum  
 NC61.两数之和：TwoSum  
 NC78.反转链表：ReverseList  
 NC88.寻找第K大：FindKth  
