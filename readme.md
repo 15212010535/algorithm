@@ -239,4 +239,5 @@ NC61.两数之和：TwoSum
 NC78.反转链表：ReverseList  
 NC88.寻找第K大：FindKth  
 NC119.最小的K个数：GetLeastNumbers  
+NC127.最长公共子序列：LCS  
 NC140.排序：MySort  
