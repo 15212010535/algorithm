@@ -244,6 +244,7 @@ NC61.两数之和：TwoSum
 NC70.单链表排序：SortInList  
 NC78.反转链表：ReverseList  
 NC88.寻找第K大：FindKth  
+NC96.字符串出现次数的TopK问题：TopKstrings  
 NC102.在二叉树中找到两个节点的最近公共祖先：LowestCommonAncestor  
 NC109.岛屿数量：NumIslands  
 NC119.最小的K个数：GetLeastNumbers  
