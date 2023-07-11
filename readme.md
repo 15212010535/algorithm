@@ -239,6 +239,7 @@ NC45.实现二叉树先序，中序和后序遍历：ThreeOrders
 NC50.链表中的节点每k个一组翻转：ReverseKGroup  
 NC53.删除链表的倒数第n个节点：RemoveNthFromEnd  
 NC54.三数之和：ThreeSum  
+NC59.矩阵的最小路径和：MinPathSum  
 NC61.两数之和：TwoSum  
 NC70.单链表排序：SortInList  
 NC78.反转链表：ReverseList  
