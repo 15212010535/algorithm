@@ -249,6 +249,7 @@ NC60.判断一棵树是否是搜索二叉树和完全二叉树：JudgeIt
 NC61.两数之和：TwoSum  
 NC70.单链表排序：SortInList  
 NC78.反转链表：ReverseList  
+NC86.矩阵元素查找：FindElement  
 NC88.寻找第K大：FindKth  
 NC92.最长公共子序列(二)：LCSTwo  
 NC96.字符串出现次数的TopK问题：TopKstrings  
