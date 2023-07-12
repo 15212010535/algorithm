@@ -227,6 +227,7 @@ offer05.替换空格：ReplaceSpace
 
 ## 牛客  
 NC1.大数加法：Solve  
+NC2.重排链表：ReorderList  
 NC3.链表中环的入口结点：EntryNodeOfLoop  
 NC5.二叉树根节点到叶子节点的所有路径和：SumNumbers  
 NC8.二叉树中和为某一值的路径(二)：FindPath  
