@@ -235,6 +235,7 @@ NC14.按之字形顺序打印二叉树：Print
 NC15.求二叉树的层序遍历：LevelOrder  
 NC17.最长回文子串：GetLongestPalindrome  
 NC24.删除有序链表中重复的元素-II：DeleteDuplicates  
+NC26.括号生成：GenerateParenthesis  
 NC30.缺失的第一个正整数：MinNumberDisappeared  
 NC33.合并两个排序的链表：Merge  
 NC36.在两个长度相等的排序数组中找到上中位数：FindMedianInTwoSortedArray  
