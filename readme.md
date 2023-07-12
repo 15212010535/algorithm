@@ -245,6 +245,7 @@ NC36.在两个长度相等的排序数组中找到上中位数：FindMedianInTwo
 NC37.合并区间：MergeInterval  
 NC40.链表相加：AddInList  
 NC41.最长无重复子数组：MaxLength  
+NC42.有重复项数字的全排列：PermuteUnique  
 NC45.实现二叉树先序，中序和后序遍历：ThreeOrders  
 NC50.链表中的节点每k个一组翻转：ReverseKGroup  
 NC53.删除链表的倒数第n个节点：RemoveNthFromEnd  
