@@ -266,6 +266,7 @@ NC100.把字符串转换成整数(atoi)：StrToInt
 NC102.在二叉树中找到两个节点的最近公共祖先：LowestCommonAncestor  
 NC105.二分查找-II：SearchFirstTarget  
 NC109.岛屿数量：NumIslands  
+NC111.最大数：MaxNumber  
 NC119.最小的K个数：GetLeastNumbers  
 NC121.字符串排列：Permutation  
 NC127.最长公共子序列：LCS  
