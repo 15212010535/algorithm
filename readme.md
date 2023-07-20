@@ -256,6 +256,7 @@ NC60.判断一棵树是否是搜索二叉树和完全二叉树：JudgeIt
 NC61.两数之和：TwoSum  
 NC70.单链表排序：SortInList  
 NC78.反转链表：ReverseList  
+NC81.二叉搜索数的第K个节点：KthNode  
 NC86.矩阵元素查找：FindElement  
 NC87.丢棋子问题：ThrowPawns  
 NC88.寻找第K大：FindKth  
