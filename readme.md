@@ -269,6 +269,7 @@ NC109.岛屿数量：NumIslands
 NC119.最小的K个数：GetLeastNumbers  
 NC121.字符串排列：Permutation  
 NC127.最长公共子序列：LCS  
+NC131.环形链表的约瑟夫问题：YSF  
 NC133.链表的奇偶重排：OddEvenList  
 NC136.输出二叉树的右视图：RightView  
 NC137.表达式求值：ExpressionEvaluation  
