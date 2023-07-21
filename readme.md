@@ -267,6 +267,7 @@ NC102.在二叉树中找到两个节点的最近公共祖先：LowestCommonAnces
 NC105.二分查找-II：SearchFirstTarget  
 NC109.岛屿数量：NumIslands  
 NC111.最大数：MaxNumber  
+NC113.验证IP地址：ValidIPAddress  
 NC119.最小的K个数：GetLeastNumbers  
 NC121.字符串排列：Permutation  
 NC127.最长公共子序列：LCS  
