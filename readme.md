@@ -231,6 +231,7 @@ NC2.重排链表：ReorderList
 NC3.链表中环的入口结点：EntryNodeOfLoop  
 NC5.二叉树根节点到叶子节点的所有路径和：SumNumbers  
 NC8.二叉树中和为某一值的路径(二)：FindPath  
+NC10.大数相乘：StringMult  
 NC12.重建二叉树, 前序和中序：ReConstructBinaryTree  
 NC14.按之字形顺序打印二叉树：Print  
 NC15.求二叉树的层序遍历：LevelOrder  
