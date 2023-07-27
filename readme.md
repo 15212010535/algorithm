@@ -47,7 +47,7 @@
 104.二叉树的最大深度：MaxDepth  
 120.三角形最小路径和：MinimumTotal  
 121.买卖股票的最佳时机：MaxProfit  
-122.买卖股票的最佳时机II：MaxProfit2  
+122.买卖股票的最佳时机II：MaxProfit2
 128.最长连续序列：LongestConsecutive  
 131.分割回文串：Partition  
 133.克隆图：CloneGraph  
@@ -273,6 +273,7 @@ NC111.最大数：MaxNumber
 NC113.验证IP地址：ValidIPAddress  
 NC119.最小的K个数：GetLeastNumbers  
 NC121.字符串排列：Permutation  
+NC126.兑换零钱(一)：MinMoney  
 NC127.最长公共子序列：LCS  
 NC131.环形链表的约瑟夫问题：YSF  
 NC133.链表的奇偶重排：OddEvenList  
