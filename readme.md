@@ -273,6 +273,7 @@ NC107.寻找峰值：FindPeakElement
 NC109.岛屿数量：NumIslands  
 NC111.最大数：MaxNumber  
 NC113.验证IP地址：ValidIPAddress  
+NC118.数组中的逆序对：InversePairs  
 NC119.最小的K个数：GetLeastNumbers  
 NC121.字符串排列：Permutation  
 NC126.兑换零钱(一)：MinMoney  
