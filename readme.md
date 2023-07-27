@@ -241,6 +241,7 @@ NC20.数字字符串转化成IP地址：RestoreIpAddresses
 NC24.删除有序链表中重复的元素-II：DeleteDuplicates  
 NC26.括号生成：GenerateParenthesis  
 NC27.集合的所有子集(一)：Subsets  
+NC29.二维数组中的查找：Find  
 NC30.缺失的第一个正整数：MinNumberDisappeared  
 NC33.合并两个排序的链表：Merge  
 NC36.在两个长度相等的排序数组中找到上中位数：FindMedianInTwoSortedArray  
