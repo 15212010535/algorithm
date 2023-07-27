@@ -268,6 +268,7 @@ NC96.字符串出现次数的TopK问题：TopKstrings
 NC100.把字符串转换成整数(atoi)：StrToInt  
 NC102.在二叉树中找到两个节点的最近公共祖先：LowestCommonAncestor  
 NC105.二分查找-II：SearchFirstTarget  
+NC107.寻找峰值：FindPeakElement  
 NC109.岛屿数量：NumIslands  
 NC111.最大数：MaxNumber  
 NC113.验证IP地址：ValidIPAddress  
